@@ -215,4 +215,11 @@ AchaRhaah_socials= {
   "instagram": "Acha Rha'ah",
   "facebook" : "Acha Rha'ah",
 }, 
+Tomdieu_socials = {
+  "twitter_handle": "navicorp_",
+  "likedin_handle": "tomdieu-ivan-gottfried-6086701b4",
+  "telegram_handle": "ivantom",
+  "instagram":"",
+  "facebook": "",
+}
 ] 
